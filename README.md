@@ -50,7 +50,7 @@
   <p> <a href="https://github.com/earnestfox/fox-iso-builder">ISO Builder utility </a> </p>
         <p>NOTE: Fox is currently in Beta and is not currently recommended for the storage of large amounts until we have completed more extensive Beta testing.</p>
 
-    </div>
+  </div>
 </template>
 
 <u>Dev notes:</u>
