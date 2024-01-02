@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Fox
+Exec=/home/ubuntu/fox
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/ubuntu/fox.jpeg
+StartupNotify=true

@@ -1,0 +1,6 @@
+[submodule "fox-frontend"]
+	path = fox-frontend
+	url = https://github.com/bowlarbear/fox-frontend
+[submodule "tauri"]
+	path = tauri
+	url = https://github.com/bowlarbear/tauri.git
